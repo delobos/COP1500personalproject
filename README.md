@@ -8,7 +8,7 @@
 ### Boundaries / Scope
 
 -   Complete Course 1 Programming for Everybody (Getting Started with Python)
--   Complete Course 2 Python Data Structures
+-   Complete Course 2 Python Data Structures, possibly Course 3 as well.
 
 ### Success criteria
 
@@ -28,7 +28,7 @@
 ### Stakeholders
 
 -   Professor - for grade
--   Parents - investing in my education and future success, want to make them proud
+-   Myself - investing in my education and future success, and using my GI Bill
 -   Perspective Employers - artifact will be added to my student portfolio which could help with getting a job
 
 ### Timeline
