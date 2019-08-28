@@ -3,21 +3,20 @@
 # 
 ### Goals
 
--   Complete the Python for Everybody Specialization
+-   Complete the Python Bootcamp:go from zero to hero in python 3
 
 ### Boundaries / Scope
 
--   Complete Course 1 Programming for Everybody (Getting Started with Python)
--   Complete Course 2 Python Data Structures, possibly Course 3 as well.
-
+-   Complete Bootcamp Course
+-   Complete Machine learning A-Z course
 ### Success criteria
 
--   My own application for data retrieval and processing.
+-   My own understanding and application of machine learning and python proficiency
 -   Weekly work log with screenshots and summaries to demonstrate activity.
 
 ### Constraints
 
--   I will be auditing the course for free so will be able to read and view the course content but not submit projects or earn the certification.
+-   Majority of income comes from me so I spend at least 20 hours working and have 3 other courses I am taking not including this one.
 
 ### Assumptions
 
@@ -35,15 +34,15 @@
 
 Week:
 
-1.  Chapter One - Why we Program? (3 hours)
-2.  Chapter Two: Variables and Expressions (3 hours)
-3.  Chapter Three: Conditional Code (3 hours)
-4.  Chapter Five: Loops and Iteration (3 hours)
-5.  Chapter Four: Functions (2 hours)
-6.  Chapter Seven: Files (3 hours)
-7.  Chapter Eight: Lists (3 hours)
-8.  Chapter Six: Strings (3 hours)
-9.  Chapter Nine: Dictionaries (3 hours)
-10.  Chapter Ten: Tuples (2 hours)
-11.  Graduation and work on independent program (2 hours)
-12.  Complete independent program (2 hours)
+1.  Course overview, Python Setup, Python Object and Data Structure Basics
+2.  Pythom Comparison Operators, Python Statements, Methods and Functions
+3.  Milestone Project 1, Object Oriented Programming, Objects and Modules
+4.  Errors and Exceptions Handling, Milestone Project 2, Python Generator, Python Decorator
+5.  Final capstone Python Project, Advanced Python Modules, Advanced Python Object and Data Structures
+6.  Machine Learning Python Part 1 and Part 2
+7.  Machine Learning Python Part 2 Continued and Part 3
+8.  Machine Learning Python Part 3 Continued and Part 4
+9.  Machine Learning Python Part 5 and Part 6
+10. Machine Learning Python Part 7
+11. Machine Learning Python Part 8
+12. Machine Learning Python Part 9 and Part 10
