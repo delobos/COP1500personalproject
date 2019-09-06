@@ -46,3 +46,13 @@ Week:
 10. Machine Learning Python Part 7
 11. Machine Learning Python Part 8
 12. Machine Learning Python Part 9 and Part 10
+
+### Updates
+
+Week 1
+
+1. learned how to use Python to add, subtract, multiply, divide, and use exponents on numbers.
+2. learned how to assign variables
+3. learned how to make strings and to index and slice them.
+4. learned how to use print statements
+5. learned how to make lists and dictionaries and the differences between them, along with pros and cons of each.
