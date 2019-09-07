@@ -56,3 +56,9 @@ Week 1
 3. learned how to make strings and to index and slice them.
 4. learned how to use print statements
 5. learned how to make lists and dictionaries and the differences between them, along with pros and cons of each.
+6. Learned how to create dictionaries and retrieve elements using keys.
+7. learned the difference between tuples and lists and where one might be more useful than the other.
+8. Learned how to make True or False statements (Booleans)
+9. learned how to create sets
+10. Learned input and output of basic files in python, that let me create, write, and read text files.
+11. Took a comprehension test on sections 1-4 of the Udemy Python bootcamp
