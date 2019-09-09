@@ -62,3 +62,7 @@ Week 1
 9. learned how to create sets
 10. Learned input and output of basic files in python, that let me create, write, and read text files.
 11. Took a comprehension test on sections 1-4 of the Udemy Python bootcamp
+
+Week 2
+
+1. Learned about Comparison operators and how to Chain them with Logic statements ( ==, !=, <, >, <=, >=, and, or, not)
