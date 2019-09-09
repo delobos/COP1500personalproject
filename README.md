@@ -66,3 +66,5 @@ Week 1
 Week 2
 
 1. Learned about Comparison operators and how to Chain them with Logic statements ( ==, !=, <, >, <=, >=, and, or, not)
+2. Learned about if, elif, and else logic statements and their uses with booleans.
+3. Learned about for loops and how to use them in lists, tuples, and dictionaries. Along with proper indentation.
