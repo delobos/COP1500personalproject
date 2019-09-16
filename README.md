@@ -70,4 +70,4 @@ Week 2
 3. Learned about for loops and how to use them in lists, tuples, and dictionaries. Along with proper indentation.
 4. Learned about methods and how to find what i can do and what that method does by asking for help(). Also where and how to access documentation on Python.
 5. Learned how to create and define a function and its uses.
-6. Learned how to use *args and "* *kwargs" in functions
+6. Learned how to use arguements and keyword arguements in a function to add an arbitrary number of items through the function.
