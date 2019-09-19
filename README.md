@@ -71,3 +71,9 @@ Week 2
 4. Learned about methods and how to find what i can do and what that method does by asking for help(). Also where and how to access documentation on Python.
 5. Learned how to create and define a function and its uses.
 6. Learned how to use arguements and keyword arguements in a function to add an arbitrary number of items through the function.
+7. Learned about Lambda functtions, along with the map, Scope, and filter.
+8. Through two assignments I learned about nested functions and the LEGB rule for scope.
+
+Week 3
+
+1.
