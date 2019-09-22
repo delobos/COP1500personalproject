@@ -8,10 +8,10 @@
 ### Boundaries / Scope
 
 -   Complete Bootcamp Course
--   Complete Machine learning A-Z course
+
 ### Success criteria
 
--   My own understanding and application of machine learning and python proficiency
+-   My own understanding and proficiency with python.
 -   Weekly work log with screenshots and summaries to demonstrate activity.
 
 ### Constraints
@@ -34,22 +34,26 @@
 
 Week:
 
-1.  Course overview, Python Setup, Python Object and Data Structure Basics
-2.  Pythom Comparison Operators, Python Statements, Methods and Functions
-3.  Milestone Project 1, Object Oriented Programming, Objects and Modules
-4.  Errors and Exceptions Handling, Milestone Project 2, Python Generator, Python Decorator
-5.  Final capstone Python Project, Advanced Python Modules, Advanced Python Object and Data Structures
-6.  Machine Learning Python Part 1 and Part 2
-7.  Machine Learning Python Part 2 Continued and Part 3
-8.  Machine Learning Python Part 3 Continued and Part 4
-9.  Machine Learning Python Part 5 and Part 6
-10. Machine Learning Python Part 7
-11. Machine Learning Python Part 8
-12. Machine Learning Python Part 9 and Part 10
+1.  Course overview, Python Setup
+2.  Python Object and Data Structure Basics
+3.  Pythom Comparison Operators & Python Statements
+4.  Methods and Functions
+5.  Milestone Project 1
+6.  Object Oriented Programming
+7.  Modules and Packages & Errors and Exceptions Handling
+8.  Milestone Project 2
+9.  Python Generator & Python Decorator
+10. Final capstone Python Project
+11. Advanced Python Modules, Advanced Python Object and Data Structures
+12. Introduction to GUI
 
 ### Updates
-
 Week 1
+1. Installed python, jupyter notebook, and pycharm.
+2. familiarized myself with the UI
+3. Learned to travel folders in commnd prompts
+
+Week 2
 
 1. learned how to use Python to add, subtract, multiply, divide, and use exponents on numbers.
 2. learned how to assign variables
@@ -63,17 +67,20 @@ Week 1
 10. Learned input and output of basic files in python, that let me create, write, and read text files.
 11. Took a comprehension test on sections 1-4 of the Udemy Python bootcamp
 
-Week 2
+Week 3
 
 1. Learned about Comparison operators and how to Chain them with Logic statements ( ==, !=, <, >, <=, >=, and, or, not)
 2. Learned about if, elif, and else logic statements and their uses with booleans.
 3. Learned about for loops and how to use them in lists, tuples, and dictionaries. Along with proper indentation.
 4. Learned about methods and how to find what i can do and what that method does by asking for help(). Also where and how to access documentation on Python.
-5. Learned how to create and define a function and its uses.
-6. Learned how to use arguements and keyword arguements in a function to add an arbitrary number of items through the function.
-7. Learned about Lambda functtions, along with the map, Scope, and filter.
-8. Through two assignments I learned about nested functions and the LEGB rule for scope.
 
-Week 3
+Week 4
 
-1.
+1. Learned how to create and define a function and its uses.
+2. Learned how to use arguements and keyword arguements in a function to add an arbitrary number of items through the function.
+3. Learned about Lambda functtions, along with the map, Scope, and filter.
+4. Through two assignments I learned about nested functions and the LEGB rule for scope.
+
+Week 5
+
+1. Created Tic Tac toe game that let 2 players make inputs, selected a random player to go first, displayed a board with the accroding moves, and asked if ou wanted to replay.
