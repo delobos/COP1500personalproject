@@ -84,3 +84,7 @@ Week 4
 Week 5
 
 1. Created Tic Tac toe game that let 2 players make inputs, selected a random player to go first, displayed a board with the accroding moves, and asked if ou wanted to replay.
+
+Week 6
+
+1. Learned how to create a Class and the init function, along with throwing basic methods in there to self reference objects.
