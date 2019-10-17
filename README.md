@@ -88,3 +88,10 @@ Week 5
 Week 6
 
 1. Learned how to create a Class and the init function, along with throwing basic methods in there to self reference objects.
+
+Week 7
+
+1. Learned how to use Try, Except, and Final for error handling.
+2. Learned how to create modules and pull specific packages from it.
+3. Learned how to use Pylint to 'Grade" code
+4. Learned how to use Unittest to make and run test code for main/specific code.
