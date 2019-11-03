@@ -95,3 +95,12 @@ Week 7
 2. Learned how to create modules and pull specific packages from it.
 3. Learned how to use Pylint to 'Grade" code
 4. Learned how to use Unittest to make and run test code for main/specific code.
+
+Week 8
+
+1.Created a Black Jack game using OOP, loops, and dictionaries.
+
+Week 9
+1. Learned to create a decorator that you can turn on and off so to easily run functions as an arguement for another function.
+2. Learned to create a generator so to not use too much memory to save a big list but instead have the computer remember the last spot and spit out an item as i ask for it.
+3. Then i had a "homework" assignment using both decorators and generator.
