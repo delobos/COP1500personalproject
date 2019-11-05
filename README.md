@@ -43,9 +43,10 @@ Week:
 7.  Modules and Packages & Errors and Exceptions Handling
 8.  Milestone Project 2
 9.  Python Generator & Python Decorator
-10. Final capstone Python Project
-11. Advanced Python Modules, Advanced Python Object and Data Structures
-12. Introduction to GUI
+10. Advanced Python Modules
+11. Advanced Python Object and Data Structures
+12. Final capstone Python Project
+13. Introduction to GUI
 
 ### Updates
 Week 1
@@ -101,6 +102,14 @@ Week 8
 1.Created a Black Jack game using OOP, loops, and dictionaries.
 
 Week 9
+
 1. Learned to create a decorator that you can turn on and off so to easily run functions as an arguement for another function.
 2. Learned to create a generator so to not use too much memory to save a big list but instead have the computer remember the last spot and spit out an item as i ask for it.
 3. Then i had a "homework" assignment using both decorators and generator.
+
+Week 10
+
+1. Learned about Advnaced modules that are in python like Counter, DefaultDict, OrderedDict, and namedtuple.
+2. Learned about Datetime to add a date or time to code.
+3. Learned about Python debugger and its uses in Jupyter notebook along with timing the code to make it most effecient.
+4. Learned about regualr expressions and how to use it to find patterns in phrases.
