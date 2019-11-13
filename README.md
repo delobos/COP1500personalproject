@@ -113,3 +113,8 @@ Week 10
 2. Learned about Datetime to add a date or time to code.
 3. Learned about Python debugger and its uses in Jupyter notebook along with timing the code to make it most effecient.
 4. Learned about regualr expressions and how to use it to find patterns in phrases.
+
+Week 11
+
+1. Learned about advanced functions to use for lists, dictionaries, sets, numbers, and strings
+2. Also did a 'Homework' assignment that tested the new functions I learned.
