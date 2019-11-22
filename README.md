@@ -118,3 +118,8 @@ Week 11
 
 1. Learned about advanced functions to use for lists, dictionaries, sets, numbers, and strings
 2. Also did a 'Homework' assignment that tested the new functions I learned.
+
+Week 12
+
+1. Learned some basics about widgets and GUI for python.
+2. Created an integer slider that could plug a number in a function and return a result realtime as you moved the slider.
