@@ -45,8 +45,7 @@ Week:
 9.  Python Generator & Python Decorator
 10. Advanced Python Modules
 11. Advanced Python Object and Data Structures
-12. Final capstone Python Project
-13. Introduction to GUI
+12. Introduction to GUI
 
 ### Updates
 Week 1
