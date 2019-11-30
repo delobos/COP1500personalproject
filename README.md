@@ -46,6 +46,7 @@ Week:
 10. Advanced Python Modules
 11. Advanced Python Object and Data Structures
 12. Introduction to GUI
+13. Final Capstone
 
 ### Updates
 Week 1
@@ -122,3 +123,7 @@ Week 12
 
 1. Learned some basics about widgets and GUI for python.
 2. Created an integer slider that could plug a number in a function and return a result realtime as you moved the slider.
+
+Week 13
+
+1. My final capstone project was to do an easy program that would take about a day and another that would take a little longer. I made a program that would count the vowels in your string and break it down and give you a print out of how many of each individual vowel there is. My harder program was a IP address locator using IPGeo2 that could give country, state, city, or postal code.
